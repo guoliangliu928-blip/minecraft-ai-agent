@@ -69,3 +69,39 @@ This project explores:
 Experimental development phase.
 
 Core architecture implemented and under continuous iteration.
+
+
+代码
+议题
+拉取请求
+行动
+项目
+维基
+安全性与质量
+见解
+背景设定
+我的世界人工智能代理
+/README.md
+前往归档
+t
+T
+Guoliangliu928-blip
+Guoliangliu928-blip
+更新 README.md
+8ae5c8c
+ · 
+1分钟前
+71行（46个洛克）·1.78 KB
+
+预览
+
+代码
+
+责任
+Minecraft AI 代理系统
+概述
+该项目是一个自主人工智能代理系统，设计用于在Minecraft环境中运行，执行持续的决策、规划和执行任务。
+
+该系统将大型语言模型与环境反馈回路集成，实现实时交互、推理和自主行为。
+
+
