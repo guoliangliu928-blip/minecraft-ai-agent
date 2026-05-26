@@ -104,4 +104,16 @@ Minecraft AI 代理系统
 
 该系统将大型语言模型与环境反馈回路集成，实现实时交互、推理和自主行为。
 
+def run():
+    print("Minecraft AI Agent starting...")
 
+    while True:
+        print("1. observe environment")
+        print("2. plan action")
+        print("3. execute action")
+        print("4. update memory")
+        print("----- loop -----")
+
+if __name__ == "__main__":
+    run()
+    
